@@ -20,7 +20,10 @@ both, in-world (SingularityViewer group) as well as on IRC (#SingularityViewer
 @ FreeNode). Bug requests and features requests can be submitted through our
 Issue Tracker (http://links.singularityviewer.org/?to=issues or from
 the viewer menu: Help --> Bug Reporting --> Singularity Issue Tracker...)
-
+<!-- Greetings, this link above forwards to "https://.sourceforge.net/?to=issues" which of course has an "ERR_NAME_NOT_RESOLVED" error, and if I remove the lone dot, it loads the main sourceforge.net page, which of course is no issue tracker. 
+Why can't you use the Issue tracker here on Github? or use the Mantis Bug Tracker on your website? https://mantisbt.org The Open Simulator Project uses that one. Though if you use the issue reports here on Github, 
+you can set up a webhook to have them automatically posted in a special text channel in your Discord group that the members can't post in. https://Discord.com By the way, I noticed that you're using the "Google Trust Services" SSL/TLS Cert(s) on the Singularity websitw now.
+How much do you pay for that? Are you aware that you can get free automaticlaly re-issued Certs from Let's Encrypt? https://LetsEncrypt.org if you have a Windows server, you can use Win-Acme. https://win-acme.com Thank you, Shalom -->
 
 As this Readme grows out of date, please refer to 
 
